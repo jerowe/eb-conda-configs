@@ -1,0 +1,5 @@
+eb-conda-configs/build
+eb-conda-configs/dist
+eb-conda-configs/*.egg-info
+**/*.egg-info
+
