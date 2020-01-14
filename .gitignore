@@ -4,4 +4,5 @@ dist
 **/*.egg-info
 **/dist
 **/build
-
+.idea
+**/.idea
