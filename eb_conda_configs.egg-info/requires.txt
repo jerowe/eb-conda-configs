@@ -1,0 +1,8 @@
+jinja2
+argparse
+
+[dev]
+check-manifest
+
+[test]
+coverage
