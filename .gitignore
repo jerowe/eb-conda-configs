@@ -1,5 +1,7 @@
-eb-conda-configs/build
-eb-conda-configs/dist
-eb-conda-configs/*.egg-info
+build
+dist
+*.egg-info
 **/*.egg-info
+**/dist
+**/build
 
