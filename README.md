@@ -7,6 +7,7 @@ This is a small wrapper script meant to help with creating [EasyConfigs](https:/
 Install with pip.
 
 ```
+pip install git+git://github.com/jerowe/eb-conda-configs.git
 ```
 
 ## Create an EasyConfig for a single Conda package
